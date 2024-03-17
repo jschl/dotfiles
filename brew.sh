@@ -38,6 +38,8 @@ packages=(
     "black"
     "node"
     "docker"
+    "pyenv"
+    "pyenv-virtualenv"
 )
 
 # Loop over the array to install each application.
