@@ -17,6 +17,8 @@ extensions=(
     formulahendry.code-runner
     esbenp.prettier-vscode
     znck.grammarly
+    ms-azuretools.vscode-docker
+    AmazonWebServices.aws-toolkit-vscode
 )
 
 # Get a list of all currently installed extensions.
