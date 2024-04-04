@@ -19,6 +19,10 @@ extensions=(
     znck.grammarly
     ms-azuretools.vscode-docker
     AmazonWebServices.aws-toolkit-vscode
+    ms-python.black-formatter
+    ms-python.mypy-type-checker
+    eamodio.gitlens
+    mhutchie.git-graph
 )
 
 # Get a list of all currently installed extensions.
