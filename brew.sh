@@ -40,6 +40,7 @@ packages=(
     "docker"
     "pyenv"
     "pyenv-virtualenv"
+    "poetry"
 )
 
 # Loop over the array to install each application.
